@@ -1,8 +1,8 @@
-# BSidesDublin2021-Workshops
+# BSides Lisbon 2022 Workshop
 
 ## About
 
-During the [BSides Lisbon 2022 event](https://bsideslisbon.org/), RandoriSec delivered a workshop **Android Hacking with Frida**.
+During the [BSides Lisbon 2022 event](https://bsideslisbon.org/), RandoriSec delivered a workshop: **Android Hacking with Frida**.
 
 If you want to follow this workshop at home, you need the following tools:
 
@@ -12,6 +12,16 @@ If you want to follow this workshop at home, you need the following tools:
 * Ghidra
 * Objection
 * Frida
+
+You can follow the slides provided to resolve the OWASP crackmes:
+
+* [UnCrackable Level 1](https://github.com/OWASP/owasp-mastg/raw/master/Crackmes/Android/Level_01/UnCrackable-Level1.apk)
+* [UnCrackable Level 2](https://github.com/OWASP/owasp-mastg/raw/master/Crackmes/Android/Level_02/UnCrackable-Level2.apk)
+* [UnCrackable-Level 3](https://github.com/OWASP/owasp-mastg/raw/master/Crackmes/Android/Level_03/UnCrackable-Level3.apk)
+
+To resolve the crackmes, only [Frida](https://frida.re/) is used!
+
+Have fun!
 
 ## Prerequisites
 
